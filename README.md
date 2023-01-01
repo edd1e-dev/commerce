@@ -47,7 +47,7 @@
 지속적으로 프로젝트 진행하면서 작성해나갈 예정
 
 ## ERD
-![commerce](https://user-images.githubusercontent.com/56020202/210162944-37932036-2eb1-4146-90b8-74c63eac2cdb.png)
+![commerce](https://user-images.githubusercontent.com/56020202/210163075-4f0eaaf3-c247-4927-be71-6439e341bca9.png)
 
 ## 프로젝트 구조
 ![structure](https://user-images.githubusercontent.com/56020202/210162951-836ff4f9-d321-44b0-ba87-681c7acdd2c5.svg)
